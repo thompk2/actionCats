@@ -1,10 +1,10 @@
 {
-  "name": "actionCats",
+  "name": "action-cats",
   "version": "1.0.0",
   "description": "random cat name generator",
   "main": "dist/index.js",
   "repository": "git@github.com:thompk2/actionCats.git",
-  "author": "Kathryn Iris Thompson <kthompson@toasttab.com>",
+  "author": "Kathryn Iris Thompson <thompk2@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.38",
