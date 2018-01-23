@@ -1,4 +1,4 @@
 .vscode
-.DSstore
+.DS_Store
 node_modules/
 dist/
